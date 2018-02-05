@@ -2,5 +2,5 @@
 title: {{ title }}
 date: {{ date }}
 description: 
-header-img: "img/home-bg.jpg"
+header-img: "img/404-bg.jpg"
 ---

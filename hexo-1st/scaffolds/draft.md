@@ -2,6 +2,8 @@
 title: {{ title }}
 subtitle:
 catalog: true
-header-img:
+header-img: 
+mathjax: true
 tags:
+catagories:
 ---
