@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>人生只若庄蝶梦</title>
+  
+  <subtitle>Remember me?</subtitle>
+  <link href="/feed.xml" rel="self"/>
+  
+  <link href="https://maricideva.github.io/"/>
+  <updated>2018-02-07T05:55:40.639Z</updated>
+  <id>https://maricideva.github.io/</id>
+  
+  <author>
+    <name>Maricideva</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Termux同步测试</title>
+    <link href="https://maricideva.github.io/2018/02/07/Termux%E5%90%8C%E6%AD%A5%E6%B5%8B%E8%AF%95/"/>
+    <id>https://maricideva.github.io/2018/02/07/Termux同步测试/</id>
+    <published>2018-02-07T05:15:48.000Z</published>
+    <updated>2018-02-07T05:55:40.639Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>其实…<br>我好饿…</strong></p><hr><h3><span id="这就是个标题而已"> 这就是个标题…而已…</span></h3><hr><p>事实表明目前还没什么价值。=_=</p><h2><span id="感谢看完这无聊的文字"> 感谢看完这无聊的文字。😄</span></h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;strong&gt;其实…&lt;br&gt;
+我好饿…&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;&lt;span id=&quot;这就是个标题而已&quot;&gt; 这就是个标题…而已…&lt;/span&gt;&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;事实表明目前还没什么价值。=_=&lt;/p&gt;
+&lt;h2&gt;&lt;span id=&quot;感谢看完这无聊
+      
+    
+    </summary>
+    
+    
+      <category term="Hexo" scheme="https://maricideva.github.io/tags/Hexo/"/>
+    
+      <category term="Blog" scheme="https://maricideva.github.io/tags/Blog/"/>
+    
+      <category term="Termux" scheme="https://maricideva.github.io/tags/Termux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>1st</title>
+    <link href="https://maricideva.github.io/2018/02/04/1st/"/>
+    <id>https://maricideva.github.io/2018/02/04/1st/</id>
+    <published>2018-02-04T14:24:24.000Z</published>
+    <updated>2018-02-07T05:55:40.639Z</updated>
+    
+    <content type="html"><![CDATA[<p>It’s me.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;It’s me.&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="Hexo" scheme="https://maricideva.github.io/tags/Hexo/"/>
+    
+      <category term="Blog" scheme="https://maricideva.github.io/tags/Blog/"/>
+    
+  </entry>
+  
+</feed>
