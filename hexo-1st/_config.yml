@@ -11,7 +11,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite-url       # Note: don't forget to modify the CNAME file to your url
+url: https://maricideva.github.io/       # Note: don't forget to modify the CNAME file to your url
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -42,7 +42,7 @@ anchorjs: true                          # if you want to customize anchor. check
 
 
 # Disqus settings
-disqus_username: your-disqus-ID
+# disqus_username: your-disqus-ID
 
 # Duoshuo settings
 # duoshuo_username: 
@@ -209,3 +209,4 @@ deploy:
   type: git
   repository: git@github.com:Maricideva/Maricideva.github.io.git
   branch: master
+
